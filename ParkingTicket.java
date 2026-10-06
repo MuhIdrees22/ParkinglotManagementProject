@@ -1,3 +1,5 @@
+package com.example.parkinglotapi.controller.model;
+
 public class ParkingTicket {
 
     private int ticketId;

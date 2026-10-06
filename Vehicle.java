@@ -1,3 +1,5 @@
+package com.example.parkinglotapi.controller.model;
+
 public class Vehicle {
 
     private String licensePlate;
